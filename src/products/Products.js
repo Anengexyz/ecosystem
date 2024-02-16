@@ -337,8 +337,7 @@ export const products = [
   quantity: '20',
   description: '',
   discount:''
-}
-
+},
 {
   id: 66,
   name: 'trousers-1.png',
