@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ddfa0e94-9836-49c6-bd8d-fa104fbef092"
+      }
+    },
+    "owner": "joannatu"
   }
 }

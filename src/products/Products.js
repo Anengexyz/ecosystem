@@ -320,8 +320,26 @@ export const products = [
   quantity: '20',
   description: '',
   discount:''
-}
-
+},{
+  id: 61,
+  name: 'iphone 15 pro max',
+  price: '$1000.99',
+  image: require('../../assets/images/iphone15.jpg'),
+  category:'gadget',
+  quantity: '25',
+  description: '',
+  discount:'5%'
+},
+{
+  id: 180,
+  name: 'Tecno Aba',
+  price: '$30.99',
+  image: require('../../assets/images/joyg.jpg'),
+  category:'electronics',
+  quantity: '40',
+  description: ' for you',
+  discount:''
+},
 {
   id: 66,
   name: 'trousers-1.png',
